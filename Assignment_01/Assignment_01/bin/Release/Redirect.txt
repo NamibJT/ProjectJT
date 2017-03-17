@@ -1,0 +1,3 @@
+Enter your Last Name: Enter your First Name: Enter gender 'male' or 'female': Enter Date of Birth 'yyyy/mm/dd'Enter Ressidential Address: Account information
+Enter Account Number provided: Please enter numeric account number provided.
+Enter Account type 'Savings' or 'Cheque': The account type provided could not be recognised.25/04/2016 00:00:00
